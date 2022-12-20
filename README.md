@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @sidiki @ouedraogo
 - :technologist: developpeur web et mobile
+-  j'aime travailler en équipe
