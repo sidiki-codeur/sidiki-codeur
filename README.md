@@ -3,8 +3,9 @@
 
 - mon adresse mail **osaadoukou@gmail.com **
 
-<h3 align="left">Contactez-moi :</h3>
+<h3 align="left">Contactez-moi : +226 75 36 44 91</h3>
 <p align="left">
+<a href="https://fb.com/saadoukou ouedraogo" target="blank">< img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saadoukou ouedraogo" hauteur ="30" width="40" /></a>
 </p>
 
 <h3 align="left">Langues et outils :</h3>
