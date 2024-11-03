@@ -14,6 +14,19 @@
   <a href="https://github.com/sidiki-codeur"><img src="https://img.shields.io/badge/GitHub-sidiki--codeur-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
+<!-- 🔗 Liens Importants Section -->
+## 🔗 Liens Importants
+
+<p align="center">
+  <a href="https://github.com/sidiki-codeur/resources-repo" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Dépôt%20Ressources%20Gratuites-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dépôt Ressources Gratuites">
+  </a>
+  <!-- Ajoutez d'autres liens importants ici de la même manière -->
+  <a href="URL_DE_VOTRE_AUTRE_DEPOT" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Autre%20Dépôt-NomDuDepot-181717?style=for-the-badge&logo=github&logoColor=white" alt="Autre Dépôt">
+  </a>
+</p>
+
 <!-- Languages and Tools Section -->
 ## 🛠️ Langages et Outils
 
@@ -86,4 +99,3 @@
 <p align="center">
   <em>Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter pour toute collaboration ou projet intéressant.</em>
 </p>
-
