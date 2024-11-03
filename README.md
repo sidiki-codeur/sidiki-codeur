@@ -18,13 +18,13 @@
 ## 🔗 Liens Importants
 
 <p align="center">
-  <a href="https://github.com/sidiki-codeur/resources-repo" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Dépôt%20Ressources%20Gratuites-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dépôt Ressources Gratuites">
+  <a href="https://github.com/sidiki-codeur/ressources-utiles" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Dépôt%20Ressources%20Utiles-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dépôt Ressources Utiles">
   </a>
   <!-- Ajoutez d'autres liens importants ici de la même manière -->
-  <a href="URL_DE_VOTRE_AUTRE_DEPOT" target="_blank" rel="noreferrer">
+  <!--a href="URL_DE_VOTRE_AUTRE_DEPOT" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Autre%20Dépôt-NomDuDepot-181717?style=for-the-badge&logo=github&logoColor=white" alt="Autre Dépôt">
-  </a>
+  </a-->
 </p>
 
 <!-- Languages and Tools Section -->
