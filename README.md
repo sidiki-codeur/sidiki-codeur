@@ -17,7 +17,7 @@
 <!-- 🔗 Liens Importants Section -->
 ## 🔗 Liens Importants
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/sidiki-codeur/ressources-utiles" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Dépôt%20Ressources%20Utiles-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dépôt Ressources Utiles">
   </a>
