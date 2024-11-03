@@ -44,7 +44,7 @@
   </a>
   <!-- Django -->
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="50" height="50"/>
   </a>
   <!-- Angular -->
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
