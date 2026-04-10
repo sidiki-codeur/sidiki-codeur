@@ -1,50 +1,99 @@
-<!-- Header Section -->
-<h1 align="center">Salut 👋, Je suis Saadoukou Ouedraogo</h1>
-<h3 align="center">Développeur Freelance Passionné</h3>
+<!-- HEADER -->
+<h1 align="center">👋 Salut, moi c’est Saadoukou Ouedraogo</h1>
+<h3 align="center">🚀 Développeur Fullstack | Créateur de solutions SaaS</h3>
 
-<!-- Introduction -->
 <p align="center">
-  Développeur freelance, j'aime créer des solutions innovantes en utilisant des technologies modernes pour répondre aux besoins des clients. Mes domaines de prédilection : **Django**, **Angular**, **Flutter**, et **PostgreSQL**.
+Je ne fais pas que coder. Je conçois des solutions digitales qui résolvent des problèmes concrets et génèrent de la valeur.
 </p>
 
-<!-- Contact Information -->
-<p align="center">
-  <a href="mailto:osaadoukou@gmail.com"><img src="https://img.shields.io/badge/Email-osaadoukou@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="tel:+22675364491"><img src="https://img.shields.io/badge/Phone-+22675364491-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"></a>
-  <a href="https://github.com/sidiki-codeur"><img src="https://img.shields.io/badge/GitHub-sidiki--codeur-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+---
+
+<!-- POSITIONNEMENT -->
+## 💡 Ce que je fais
+<p>
+Je développe des applications web, mobiles et desktop performantes avec une approche orientée **business, scalabilité et impact**.
+
+✔️ Création de SaaS (multi-tenant, scalable)  
+✔️ Applications de gestion (ERP, CRM, stock, RH)  
+✔️ Solutions offline-first avec synchronisation cloud  
+✔️ Automatisation & optimisation des processus métiers  
 </p>
 
-<!-- 🔗 Liens Importants Section -->
-## 🔗 Liens Importants
-<p align="left">
-  <a href="https://github.com/sidiki-codeur/ressources-utiles" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Dépôt%20Ressources%20Utiles-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dépôt Ressources Utiles">
+---
+
+<!-- STACK -->
+## ⚙️ Stack principale
+<p align="center">
+  
+🚀 **Backend**  
+Django • Django REST Framework • PostgreSQL  
+
+🎯 **Frontend**  
+Angular • Angular Material • Tailwind  
+
+📱 **Mobile & Desktop**  
+Flutter • Electron  
+
+🧠 **Autres**  
+Firebase • Docker • Git • API Design  
+
+</p>
+
+---
+
+<!-- PROJETS -->
+## 🔥 Projets & Vision
+<p>
+Je construis actuellement un écosystème de solutions sous la marque <strong>GESTIO</strong> :
+
+💼 <strong>GestioStock</strong> — gestion commerciale & stock  
+📊 <strong>GestioCompta</strong> — comptabilité simplifiée  
+👥 <strong>GeniTeams</strong> — gestion d’équipes & RH  
+🚜 <strong>eFerme</strong> — gestion agricole intelligente  
+
+Objectif : créer des outils simples, puissants et adaptés aux réalités africaines.
+</p>
+
+---
+
+<!-- CONTACT -->
+## 📞 Me contacter
+<p align="center">
+  <a href="mailto:osaadoukou@gmail.com">
+    <img src="https://img.shields.io/badge/Email-osaadoukou@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+22675364491">
+    <img src="https://img.shields.io/badge/Téléphone-+22675364491-blue?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
+  <a href="https://github.com/sidiki-codeur">
+    <img src="https://img.shields.io/badge/GitHub-sidiki--codeur-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<!-- Languages and Tools Section -->
-## 🛠️ Langages et Outils
-<div align="center">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="50"/></a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="50" height="50"/></a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/></a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></a>
-</div>
+---
 
-<!-- GitHub Stats Section -->
-## 📊 Mes Statistiques GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidiki-codeur&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidiki-codeur&theme=radical" alt="GitHub Streak">
+<!-- RESSOURCES -->
+## 📚 Ressources utiles
+<p>
+  <a href="https://github.com/sidiki-codeur/ressources-utiles">
+    🔗 Accéder aux ressources
+  </a>
 </p>
 
-<!-- Footer -->
 ---
+
+<!-- STATS -->
+## 📊 GitHub Stats
 <p align="center">
-  <em>Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter pour toute collaboration ou projet intéressant.</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=sidiki-codeur&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidiki-codeur&theme=radical" />
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+🔥 <strong>Disponible pour projets, collaborations et opportunités sérieuses.</strong>  
+<br>
+Construisons quelque chose de puissant.
 </p>
